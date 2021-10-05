@@ -44,6 +44,11 @@ NF EN ISO 25178-1 : 2016-06  Spécification géométrique des produits (GPS) —
 
 NF EN ISO 21920-1: XXXX-XX Spécification géométrique des produits (GPS) - État de surface : Méthode du profil - Partie 1: Indication des états de surface
 
+## Logiciel utilisé pour la création de la police
+
 La police est créé avec le logiciel libre [FontForge](https://fontforge.org/en-US/)
+
+
+## Licence
 
 La police est disponible sous la licence : [GNU GPL licence version 3](LICENSE)
