@@ -167,7 +167,7 @@ s
 
 <img src="Glyphes/zero_ISOGPS.svg" alt="0 201" style="height:100px;"/> <img src="Glyphes/one_ISOGPS.svg" alt="1 202" style="height:100px;"/> <img src="Glyphes/two_ISOGPS.svg" alt="2 203" style="height:100px;"/>
 <img src="Glyphes/three_ISOGPS.svg" alt="3 204" style="height:100px;"/> <img src="Glyphes/four_ISOGPS.svg" alt="4 205" style="height:100px;"/> <img src="Glyphes/five_ISOGPS.svg" alt="5 206" style="height:100px;"/>
-<img src="Glyphes/six_ISOGPS.svg" alt="6 207" style="height:100px;"/> <img src="Glyphes/seven_ISOGPS.svg" alt="7 207" style="height:100px;"/> <img src="Glyphes/eight_ISOGPS.svg" alt="8 207" style="height:100px;"/> <img src="Glyphes/nine_ISOGPS.svg" alt="9 207" style="height:100px;"/>
+<img src="Glyphes/six_ISOGPS.svg" alt="6 207" style="height:100px;"/> <img src="Glyphes/seven_ISOGPS.svg" alt="7 208" style="height:100px;"/> <img src="Glyphes/eight_ISOGPS.svg" alt="8 210" style="height:100px;"/> <img src="Glyphes/nine_ISOGPS.svg" alt="9 211" style="height:100px;"/>
 
 ## Signes
 
@@ -176,6 +176,10 @@ s
 <img src="Glyphes/slash_ISOGPS.svg" alt="divisé 304" style="height:100px;"/> 
 <img src="Glyphes/plusminus_ISOGPS.svg" alt="plus ou moins 305" style="height:100px;"/> 
 <img src="Glyphes/equal_ISOGPS.svg" alt="égal 306" style="height:100px;"/> 
+<img src="Glyphes/uni0223_ISOGPS.svg" alt="ou 307" style="height:100px;"/> 
+<img src="Glyphes/divide_ISOGPS.svg" alt="division 308" style="height:100px;"/> 
+
+
 
 <img src="Glyphes/at_ISOGPS.svg" alt="arobase 354" style="height:100px;"/>
 
