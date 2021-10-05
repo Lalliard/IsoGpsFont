@@ -8,4 +8,4 @@ NF EN ISO 3098-2 : 2000-07	Documentation technique de produits - Écriture - Par
 
 La police est créé avec le logiciel libre [FontForge](https://fontforge.org/en-US/)
 
-Lz police est disponible sous la licence : [GNU GPL licence version 3[licence.md)
+Lz police est disponible sous la licence : [GNU GPL licence version 3](LICENCE)
