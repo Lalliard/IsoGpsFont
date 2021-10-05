@@ -1,4 +1,4 @@
-# IsoGpsFont
+# Police ISO GPS
 
 Police TrueType et symbole selon :
 
