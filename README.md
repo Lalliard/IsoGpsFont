@@ -1,14 +1,9 @@
 # Police ISO GPS
 
-Police TrueType et symbole selon :
-
-NF EN ISO 3098-1 : 2015-05	Documentation technique de produits - Écriture - Partie 1 : Exigences générales
-
-&
+Police TrueType et symbole selon  norme  **ISO 3098-1** pour la documentation technique de produits.
 
 
-
-Liste des normes relatives à la création de cette police.
+## Liste des normes relatives à la création de cette police.
 
 [NF E04-013](NF_E04-013.md) : 2015-02 Spécification géométrique des produits (GPS) - Symbolisation des prises de pièces
 
