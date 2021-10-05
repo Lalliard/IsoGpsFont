@@ -2,7 +2,7 @@
 
 
 ## A
-[!A](Glyphes/A_ISOGPS.svg)
+![A](Glyphes/A_ISOGPS.svg)
 
 ## B
 
