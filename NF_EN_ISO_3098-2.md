@@ -3,7 +3,8 @@
 
 ## A
 
-<img src="Glyphes/A_ISOGPS.svg" alt="A" style="height:120px;"/>
+<img src="Glyphes/A_ISOGPS.svg" alt="A" style="height:100px;"/>
 
 ## B
 
+<img src="Glyphes/B_ISOGPS.svg" alt="B" style="height:100px;"/>
