@@ -4,8 +4,12 @@
 
 ## A
 
-<img src="Glyphes/A_ISOGPS.svg" alt="A 001/00" style="height:50px;"/>
+<img src="Glyphes/A_ISOGPS.svg" alt="A 001/00" style="height:100px;"/>
 
 ## B
 
-<img src="Glyphes/B_ISOGPS.svg" alt="B 002/00" style="height:50px;"/>
+<img src="Glyphes/B_ISOGPS.svg" alt="B 002/00" style="height:100px;"/>
+
+
+
+Version 2.6 du 05/10/2021
