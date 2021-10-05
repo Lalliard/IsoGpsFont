@@ -2,8 +2,8 @@
 
 
 ## A
-![A](Glyphes/A_ISOGPS.svg = 250x)
-    <img src="Glyphes/A_ISOGPS.svg" alt="A" style="height:200px;"/>
+
+<img src="Glyphes/A_ISOGPS.svg" alt="A" style="height:120px;"/>
 
 ## B
 
