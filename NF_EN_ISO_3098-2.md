@@ -18,17 +18,19 @@
 
 <img src="Glyphes/B_ISOGPS.svg" alt="B 002/00" style="height:100px;"/>
 
-<img src="Glyphes/B2_ISOGPS.svg" alt="B 102/00" style="height:100px;"/>
+<img src="Glyphes/b2_ISOGPS.svg" alt="b 102/00" style="height:100px;"/>
 
 ## C
 
 <img src="Glyphes/C_ISOGPS.svg" alt="C 003/00" style="height:100px;"/>
 
-<img src="Glyphes/C2_ISOGPS.svg" alt="C 103/00" style="height:100px;"/>
+<img src="Glyphes/c2_ISOGPS.svg" alt="c 103/00" style="height:100px;"/>
 
 ## D
 
-<img src="Glyphes/D_ISOGPS.svg" alt="B 004/00" style="height:100px;"/>
+<img src="Glyphes/D_ISOGPS.svg" alt="D 004/00" style="height:100px;"/>
+
+<img src="Glyphes/d2_ISOGPS.svg" alt="d 104/00" style="height:100px;"/>
 
 ## E
 
