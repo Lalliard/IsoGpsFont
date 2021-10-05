@@ -172,6 +172,8 @@ s
 ## Signes
 
 <img src="Glyphes/plus_ISOGPS.svg" alt="plus 301" style="height:100px;"/>  <img src="Glyphes/hyphen_ISOGPS.svg" alt="moins 302" style="height:100px;"/> 
+<img src="Glyphes/asterix_ISOGPS.svg" alt="multiplié 303" style="height:100px;"/> 
+
 
 
 <img src="Glyphes/at_ISOGPS.svg" alt="arobase 354" style="height:100px;"/>
