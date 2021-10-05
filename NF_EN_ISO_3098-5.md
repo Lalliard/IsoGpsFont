@@ -173,8 +173,9 @@ s
 
 <img src="Glyphes/plus_ISOGPS.svg" alt="plus 301" style="height:100px;"/>  <img src="Glyphes/hyphen_ISOGPS.svg" alt="moins 302" style="height:100px;"/> 
 <img src="Glyphes/asterisk_ISOGPS.svg" alt="multiplié 303" style="height:100px;"/> 
-
-
+<img src="Glyphes/slash_ISOGPS.svg" alt="divisé 304" style="height:100px;"/> 
+<img src="Glyphes/plusminus_ISOGPS.svg" alt="plus ou moins 305" style="height:100px;"/> 
+<img src="Glyphes/equal_ISOGPS.svg" alt="égal 306" style="height:100px;"/> 
 
 <img src="Glyphes/at_ISOGPS.svg" alt="arobase 354" style="height:100px;"/>
 
