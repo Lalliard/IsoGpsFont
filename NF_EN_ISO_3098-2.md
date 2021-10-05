@@ -164,15 +164,8 @@ s
 
 ## Chiffres
 
-<img src="Glyphes/zero_ISOGPS.svg" alt="0 201" style="height:100px;"/>
-<img src="Glyphes/one_ISOGPS.svg" alt="1 202" style="height:100px;"/>
-<img src="Glyphes/two_ISOGPS.svg" alt="2 203" style="height:100px;"/>
-<img src="Glyphes/three_ISOGPS.svg" alt="3 204" style="height:100px;"/>
-<img src="Glyphes/four_ISOGPS.svg" alt="4 205" style="height:100px;"/>
-<img src="Glyphes/five_ISOGPS.svg" alt="5 206" style="height:100px;"/>
-<img src="Glyphes/six_ISOGPS.svg" alt="6 207" style="height:100px;"/>
-<img src="Glyphes/seven_ISOGPS.svg" alt="7 207" style="height:100px;"/>
-<img src="Glyphes/height_ISOGPS.svg" alt="8 207" style="height:100px;"/>
-<img src="Glyphes/nine_ISOGPS.svg" alt="9 207" style="height:100px;"/>
+<img src="Glyphes/zero_ISOGPS.svg" alt="0 201" style="height:100px;"/> <img src="Glyphes/one_ISOGPS.svg" alt="1 202" style="height:100px;"/> <img src="Glyphes/two_ISOGPS.svg" alt="2 203" style="height:100px;"/>
+<img src="Glyphes/three_ISOGPS.svg" alt="3 204" style="height:100px;"/> <img src="Glyphes/four_ISOGPS.svg" alt="4 205" style="height:100px;"/> <img src="Glyphes/five_ISOGPS.svg" alt="5 206" style="height:100px;"/>
+<img src="Glyphes/six_ISOGPS.svg" alt="6 207" style="height:100px;"/> <img src="Glyphes/seven_ISOGPS.svg" alt="7 207" style="height:100px;"/> <img src="Glyphes/eight_ISOGPS.svg" alt="8 207" style="height:100px;"/> <img src="Glyphes/nine_ISOGPS.svg" alt="9 207" style="height:100px;"/>
 
 Version 2.6 du 05/10/2021
