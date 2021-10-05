@@ -37,78 +37,78 @@
 <img src="Glyphes/E_ISOGPS.svg" alt="E 005/00" style="height:100px;"/>
 
 <img src="Glyphes/e2_ISOGPS.svg" alt="e 105/00" style="height:100px;"/>
-
+s
 ## F
 
 <img src="Glyphes/F_ISOGPS.svg" alt="F 006/00" style="height:100px;"/>
 
-<img src="Glyphes/F_ISOGPS.svg" alt="f 106/00" style="height:100px;"/>
+<img src="Glyphes/f2_ISOGPS.svg" alt="f 106/00" style="height:100px;"/>
 
 ## G
 
 <img src="Glyphes/G_ISOGPS.svg" alt="G 007/00" style="height:100px;"/>
 
-<img src="Glyphes/G_ISOGPS.svg" alt="g 107/00" style="height:100px;"/>
+<img src="Glyphes/g2_ISOGPS.svg" alt="g 107/00" style="height:100px;"/>
 
 ## H
 
 <img src="Glyphes/H_ISOGPS.svg" alt="H 008/00" style="height:100px;"/>
 
-<img src="Glyphes/H_ISOGPS.svg" alt="h 108/00" style="height:100px;"/>
+<img src="Glyphes/h2_ISOGPS.svg" alt="h 108/00" style="height:100px;"/>
 
 ## I
 
 <img src="Glyphes/I_ISOGPS.svg" alt="I 009/00" style="height:100px;"/>
 
-<img src="Glyphes/I_ISOGPS.svg" alt="i 109/00" style="height:100px;"/>
+<img src="Glyphes/i2_ISOGPS.svg" alt="i 109/00" style="height:100px;"/>
 
 ## J
 
 <img src="Glyphes/J_ISOGPS.svg" alt="J 010/00" style="height:100px;"/>
 
-<img src="Glyphes/J_ISOGPS.svg" alt="j 110/00" style="height:100px;"/>
+<img src="Glyphes/j2_ISOGPS.svg" alt="j 110/00" style="height:100px;"/>
 
 ## K
 
 <img src="Glyphes/K_ISOGPS.svg" alt="K 011/00" style="height:100px;"/>
 
-<img src="Glyphes/K_ISOGPS.svg" alt="k 111/00" style="height:100px;"/>
+<img src="Glyphes/k2_ISOGPS.svg" alt="k 111/00" style="height:100px;"/>
 
 ## L
 
 <img src="Glyphes/L_ISOGPS.svg" alt="L 012/00" style="height:100px;"/>
 
-<img src="Glyphes/L_ISOGPS.svg" alt="l 112/00" style="height:100px;"/>
+<img src="Glyphes/l2_ISOGPS.svg" alt="l 112/00" style="height:100px;"/>
 
 ## M
 
 <img src="Glyphes/M_ISOGPS.svg" alt="M 013/00" style="height:100px;"/>
 
-<img src="Glyphes/M_ISOGPS.svg" alt="m 113/00" style="height:100px;"/>
+<img src="Glyphes/m2_ISOGPS.svg" alt="m 113/00" style="height:100px;"/>
 
 ## N
 
 <img src="Glyphes/N_ISOGPS.svg" alt="N 014/00" style="height:100px;"/>
 
-<img src="Glyphes/N_ISOGPS.svg" alt="n 014/00" style="height:100px;"/>
+<img src="Glyphes/n2_ISOGPS.svg" alt="n 014/00" style="height:100px;"/>
 
 ## O
 
 <img src="Glyphes/O_ISOGPS.svg" alt="O 015/00" style="height:100px;"/>
 
-<img src="Glyphes/O_ISOGPS.svg" alt="o 115/00" style="height:100px;"/>
+<img src="Glyphes/o2_ISOGPS.svg" alt="o 115/00" style="height:100px;"/>
 
 ## P
 
 <img src="Glyphes/P_ISOGPS.svg" alt="P 016/00" style="height:100px;"/>
 
-<img src="Glyphes/P_ISOGPS.svg" alt="p 116/00" style="height:100px;"/>
+<img src="Glyphes/p2_ISOGPS.svg" alt="p 116/00" style="height:100px;"/>
 
 ## Q
 
 <img src="Glyphes/Q_ISOGPS.svg" alt="Q 017/00" style="height:100px;"/>
 
-<img src="Glyphes/Q_ISOGPS.svg" alt="q 117/00" style="height:100px;"/>
+<img src="Glyphes/q2_ISOGPS.svg" alt="q 117/00" style="height:100px;"/>
 
 ## R
 
