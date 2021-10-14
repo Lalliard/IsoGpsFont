@@ -1,7 +1,7 @@
 # NF EN ISO 7083 : 2021-05	Documentation technique de produits - Symboles utilisés dans la documentation technique de produits - Proportions et dimensions
 
 
-## Signes
+## TOLÉRANCES GÉOMÉTRIQUES
 
 <img src="Glyphes/Symetrie_ISOGPS.svg" alt="Symétrie" style="height:100px;"/>
 <img src="Glyphes/Rectitude_ISOGPS.svg" alt="Rectitude" style="height:100px;"/> 
