@@ -7,6 +7,7 @@
 <img src="Glyphes/Rectitude_ISOGPS.svg" alt="Rectitude" style="height:100px;"/> 
 <img src="Glyphes/Circularite_ISOGPS.svg" alt="Circularité" style="height:100px;"/> 
 <img src="Glyphes/Cylindricite_ISOGPS.svg" alt="Cylindricité" style="height:100px;"/> 
+<img src="Glyphes/Concentricite_ISOGPS.svg" alt="Concentricité" style="height:100px;"/> 
 <img src="Glyphes/Planeite_ISOGPS.svg" alt="Planéité" style="height:100px;"/> 
 <img src="Glyphes/Localisation_ISOGPS.svg" alt="Localisation" style="height:100px;"/> 
 <img src="Glyphes/Rectitude_ISOGPS.svg" alt="Rectitude" style="height:100px;"/> 
