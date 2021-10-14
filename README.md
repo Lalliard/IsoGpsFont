@@ -24,7 +24,7 @@ NF EN ISO 3098-2 : 2000-07 Documentation technique de produits - Écriture - Par
 
 NF EN ISO 5459 : 2011-11 Spécification géométrique des produits (GPS) Tolérancement géométrique
 
-NF EN ISO 7083 : 2021-05 Documentation technique de produits - Symboles utilisés dans la documentation technique de produits - Proportions et dimensions
+[NF EN ISO 7083](NF_EN_ISO_7083.md) : 2021-05 Documentation technique de produits - Symboles utilisés dans la documentation technique de produits - Proportions et dimensions
 
 NF EN ISO 10135 : 2009-04  Spécification géométrique des produits (GPS) Indications sur les dessins pour pièces moulées dans la documentation technique de produits (TPD)
 
