@@ -14,6 +14,7 @@
 <img src="Glyphes/FormeCourbe_ISOGPS.svg" alt="FormeCourbe" style="height:100px;"/>
 <img src="Glyphes/FormeSurface_ISOGPS.svg" alt="FormeSurface" style="height:100px;"/> 
 
+<img src="Glyphes/BattementCirculaire_ISOGPS.svg" alt="Battement Circulaire" style="height:100px;"/> 
+<img src="Glyphes/BattementTotal_ISOGPS.svg" alt="Battement total" style="height:100px;"/> 
 
-
-Version 3. du 15/10/2021
+Version 3.1 du 15/10/2021
