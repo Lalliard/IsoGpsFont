@@ -3,9 +3,10 @@
 
 ## Signes
 
-<img src="Glyphes/plus_ISOGPS.svg" alt="plus 301" style="height:100px;"/>  <img src="Glyphes/hyphen_ISOGPS.svg" alt="moins 302" style="height:100px;"/> 
-<img src="Glyphes/asterisk_ISOGPS.svg" alt="multiplié 303" style="height:100px;"/> 
-<img src="Glyphes/slash_ISOGPS.svg" alt="divisé 304" style="height:100px;"/> 
+<img src="Glyphes/Symetrie_ISOGPS.svg" alt="Symétrie" style="height:100px;"/>
+<img src="Glyphes/Rectitude_ISOGPS.svg" alt="Rectitude" style="height:100px;"/> 
+<img src="Glyphes/Circularite_ISOGPS.svg" alt="Circularité" style="height:100px;"/> 
+<img src="Glyphes/Planeite_ISOGPS.svg" alt="Planéité" style="height:100px;"/> 
 <img src="Glyphes/plusminus_ISOGPS.svg" alt="plus ou moins 305" style="height:100px;"/> 
 <img src="Glyphes/equal_ISOGPS.svg" alt="égal 306" style="height:100px;"/> 
 <img src="Glyphes/uni0223_ISOGPS.svg" alt="ou 307" style="height:100px;"/> 
