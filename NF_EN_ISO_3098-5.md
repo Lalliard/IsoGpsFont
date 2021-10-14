@@ -183,4 +183,4 @@ s
 
 <img src="Glyphes/at_ISOGPS.svg" alt="arobase 354" style="height:100px;"/>
 
-Version 2.6 du 05/10/2021
+Version 3.1 du 10/10/2021
