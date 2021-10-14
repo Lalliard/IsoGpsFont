@@ -10,7 +10,7 @@
 <img src="Glyphes/Planeite_ISOGPS.svg" alt="Planéité" style="height:100px;"/> 
 <img src="Glyphes/Localisation_ISOGPS.svg" alt="Localisation" style="height:100px;"/> 
 <img src="Glyphes/Rectitude_ISOGPS.svg" alt="Rectitude" style="height:100px;"/> 
-<img src="Glyphes/uni0223_ISOGPS.svg" alt="ou 307" style="height:100px;"/> 
+<img src="Glyphes/Parallelisme_ISOGPS.svg" alt="Parallélisme" style="height:100px;"/> 
 <img src="Glyphes/FormeCourbe_ISOGPS.svg" alt="FormeCourbe" style="height:100px;"/>
 <img src="Glyphes/FormeSurface_ISOGPS.svg" alt="FormeSurface" style="height:100px;"/> 
 
